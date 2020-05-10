@@ -1,1 +1,1 @@
-# rectangle_surface_diagram
+# python matplotlib library is needed to run
